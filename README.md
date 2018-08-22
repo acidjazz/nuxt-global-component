@@ -1,6 +1,5 @@
 # nuxt global component
 > example strategy of programmatic global components in nuxt.js
-this example demonstrates a bulam modal that is called programmatically
 
 ```js
 this.$modal.alert('copy to show inside')
