@@ -1,6 +1,5 @@
-# nuxt-global-comps
-
-> sample project for programmatic components in nuxtjs
+# nuxt global component
+> example strategy of programmatic global components in nuxt.js
 
 ## Build Setup
 
