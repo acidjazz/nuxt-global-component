@@ -1,7 +1,7 @@
 {
-  "name": "nuxt-global-comps",
+  "name": "nuxt-global-component",
   "version": "1.0.0",
-  "description": "sample project for programmatic components in nuxtjs",
+  "description": "sample project for a programmatic glboal component in nuxt.js",
   "author": "kevin olson",
   "private": true,
   "scripts": {
